@@ -17,7 +17,7 @@ Pada contoh di atas terdapat fungsi-fungsi yang menampilkan output seperti:
 ![output22](https://user-images.githubusercontent.com/56245966/116260241-b77d9a00-a7a0-11eb-8a3b-a6d16afed988.png)
 # Lalu akan muncuI seperti ini:
 ![output222](https://user-images.githubusercontent.com/56245966/116260824-3f63a400-a7a1-11eb-986e-b197131ea0fa.png)
-3 Pembuatan Form Input
+# Pembuatan Form Input
 * Pada pembuatan form input Javascript, hampir sama dengan pembuatan form pada HTML.
 # Contohnya seperti berikut.
 ![input3](https://user-images.githubusercontent.com/56245966/116262091-725a6780-a7a2-11eb-80cd-d0c2c5c3c01a.png)
