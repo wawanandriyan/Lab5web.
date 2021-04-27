@@ -21,7 +21,7 @@ Pada contoh di atas terdapat fungsi-fungsi yang menampilkan output seperti:
 * Pada pembuatan form input Javascript, hampir sama dengan pembuatan form pada HTML.
 # Contohnya seperti berikut.
 ![input3](https://user-images.githubusercontent.com/56245966/116262091-725a6780-a7a2-11eb-80cd-d0c2c5c3c01a.png)
-Hasilnya, kita disuruh menginput pada form yang tersedia, seperti di bawah ini.
+# Hasilnya, kita disuruh menginput pada form yang tersedia, seperti di bawah ini.
 ![output3](https://user-images.githubusercontent.com/56245966/116262353-a9c91400-a7a2-11eb-8c4a-898a2f0c9a61.png)
 # Pembuatan Form Button Pada objek document
 * Objek document adalah model dari dokumen HTML. Objek ini berisi kumpulan fungsi dan atribut berupa objek dari elemen HTML.
